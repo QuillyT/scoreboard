@@ -1,0 +1,25 @@
+div#team1 div.teamname{
+    background-color: orange;
+    color: #FFFFFF;
+}
+
+div#team2 div.teamname{
+    background-color: green;
+    color: #FFFFFF;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+div#team1 div.score{
+    background-color: red;
+}
+
+div#team2 div.score{
+    background-color: blue;
+}
